@@ -18,9 +18,9 @@ I have provided 2 links at the end of this page that should be able to work on a
 
 I have attached the coding changes I have made from the orginial script. There were no changes to the CSS style sheet or the original HTML sheet. I did not include the original script in the screenshots.
 
-<img src="![](password-changes1.PNG)" alt=shows the changes made to the top part of the JS sheet.>
-<img src="![](password-changes2.PNG)" alt=shows the changes made to the middle section of JS sheet.>
-<img src="![](password-changes3.PNG)" alt=shows the final part of the changes made to the JS sheet.>
+<img src="C:\Users\Hhosse\desktop\bootcamp\password-generator\password-changes1.PNG" alt=shows the changes made to the top part of the JS sheet.>
+<img src="password-generator\password-changes2.PNG" alt=shows the changes made to the middle section of JS sheet.>
+<img src="password-generator\password-changes3.PNG" alt=shows the final part of the changes made to the JS sheet.>
 
 ## The Result
 
