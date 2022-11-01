@@ -1,14 +1,14 @@
-# Semantic-Code-Challenge1
+# Password Generator Challenge
 
 ## USER Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
 
 ## Description
 
-In this challenge, I wanted to correct the structure of the HTML and CSS file to being semantic. I have provided all changes made in the CSS and HTML files as comments on each section. Lastly, I condensed all of the rules in the CSS file to make it more managable. 
+In this challenge, I wanted to create a JS sheet that enabled the deployed page to generate a password that is between 8-128 characters. The password must contain one or all of the following: lowercase letters, uppercase letters, special characters and/or numbers. I have provided all changes made in the JS script as comments on each section.
 
 ## Installation
 
@@ -16,15 +16,15 @@ I have provided 2 links at the end of this page that should be able to work on a
 
 ## Screenshot of Changed Code
 
-I have attached the coding changes I have made from the orginial script. I did not include the original script in the screenshots.
+I have attached the coding changes I have made from the orginial script. There were no changes to the CSS style sheet or the original HTML sheet. I did not include the original script in the screenshots.
 
-<img src="./assests/images/password-changes1.PNG" alt=shows the changes made to the top part of the JS sheet.>
-<img src="./assests/images/password-changes2.PNG" alt=shows the changes made to the middle section of JS sheet.>
-<img src="./assests/images/password-changes3.PNG" alt=shows the final part of the changes made to the JS sheet.>
+<img src="![](password-changes1.PNG)" alt=shows the changes made to the top part of the JS sheet.>
+<img src="![](password-changes2.PNG)" alt=shows the changes made to the middle section of JS sheet.>
+<img src="![](password-changes3.PNG)" alt=shows the final part of the changes made to the JS sheet.>
 
 ## The Result
 
-I have updated the existing code to allow for a more efficient and semantically structured website for the client. This should be accessible on all devices.
+I have updated the JS script for this website to provide users to generate a random and complex password that is between 8-128 characters and contains lowercase letters, uppercase letters, special characters, and/or numbers. This should be accessible on all devices.
 
 ## Links for Submission
 
